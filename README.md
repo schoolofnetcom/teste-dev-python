@@ -25,7 +25,12 @@ Para cada transação, é necessário salvar em um banco de dados um histórico 
 ### 3. Testes
 O projeto deve conter testes em todas as etapas do desenvolvimento, não sendo necessário utilizar TDD para implementação. É importante a presença de testes de unidade e integração no projeto. 
 
-### 4. Documentação e container
+### 4. Relatório
+Gere um relatório listando o histórico de transações da pessoa a partir de um espaço de datas, podendo filtrar também pela pessoa através do CPF.
+
+*Plus: Utilizar managers do Django para criar modelos customizados*
+
+### 5. Documentação e container
 Ao final do projeto, dockerize o mesmo e documente através de um README como realizar o build, testes e iniciar o container Docker.
 
 *Plus: Documentação através do Swagger ou similar*
