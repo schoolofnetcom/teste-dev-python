@@ -34,3 +34,6 @@ Gere um relatório listando o histórico de transações da pessoa a partir de u
 Ao final do projeto, dockerize o mesmo e documente através de um README como realizar o build, testes e iniciar o container Docker.
 
 *Plus: Documentação através do Swagger ou similar*
+
+### 6. Entrega
+O candidato deve entregar a aplicação funiconando em até 1 dia útil
