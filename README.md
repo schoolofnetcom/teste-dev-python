@@ -4,6 +4,11 @@
 ## Descrição
 O projeto consiste na criação de uma pequeno serviço para transferência de valores através de um sistema de validação de Hash.
 
+## Tecnologias
+- Python com Django Framework
+- Banco de dados PostgreSQL
+- Docker
+
 ## Tarefas
 
 ### 1. Criação da pessoa
@@ -18,7 +23,7 @@ Para cada transação, é necessário salvar em um banco de dados um histórico 
 *Sugestão: Pesquise alguma biblioteca de geração de hash única no padrão SHA-256 .*
 
 ### 3. Testes
-O projeto deve conter testes em todas as etapas do desenvolvimento, não sendo necessário utilizar TDD para implementação.
+O projeto deve conter testes em todas as etapas do desenvolvimento, não sendo necessário utilizar TDD para implementação. É importante a presença de testes de unidade e integração no projeto. 
 
 ### 4. Documentação
 Ao final do projeto, documente através de um README como realizar o build, testes e iniciar o servidor localmente.
