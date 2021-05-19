@@ -36,4 +36,4 @@ Ao final do projeto, dockerize o mesmo e documente através de um README como re
 *Plus: Documentação através do Swagger ou similar*
 
 ### 6. Entrega
-O candidato deverá entregar a aplicação funcionando em até 1 dia útil.
+O candidato deverá entregar a aplicação funcionando em até 1 dia útil. Ao finalizar enviar o link do repositório para o e-mail: atendimento@schoolofnet.com com o assunto: [DEV PYTHON] Teste
